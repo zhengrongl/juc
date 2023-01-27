@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="268afb95-9a24-4fbe-98e0-9f5c0f77b404" name="Changes" comment="2023-01-27 提交">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="268afb95-9a24-4fbe-98e0-9f5c0f77b404" name="Changes" comment="2023-01-27 删除测试">
+      <change beforePath="$PROJECT_DIR$/demo-01/src/main/java/com/juc/demo/Demo02.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +85,7 @@
       <workItem from="1674456999101" duration="1809000" />
       <workItem from="1674818315404" duration="1920000" />
       <workItem from="1674820246078" duration="697000" />
+      <workItem from="1674820954097" duration="801000" />
     </task>
     <task id="LOCAL-00001" summary="2023-01-27 提交">
       <created>1674819006562</created>
@@ -104,7 +101,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674820781141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023-01-27 提交">
+      <created>1674820964635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674820964635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023-01-27 提交测试">
+      <created>1674822022525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674822022525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023-01-27 删除测试">
+      <created>1674822067188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674822067188</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023-01-27 提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-01-27 提交" />
+    <MESSAGE value="2023-01-27 提交测试" />
+    <MESSAGE value="2023-01-27 删除测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-01-27 删除测试" />
   </component>
 </project>
