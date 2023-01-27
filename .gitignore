@@ -15,6 +15,7 @@
 *.tar.gz
 *.rar
 *.iml
+target
 .classpath
 .project
 .idea
