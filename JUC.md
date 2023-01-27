@@ -283,8 +283,3 @@ Future提供了三种功能： 　　
 - jps 命令查看所有Java进程
 - jstack <PID> 查看某个Java进程(PID)的所有线程状态
 - jconsole 来查看某个Java进程中线程的运行情况(图形化界面)
-
-
-
-
-
