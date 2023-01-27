@@ -272,7 +272,7 @@ Future提供了三种功能： 　　
 
 - ps -fe 查看所有进程
 - ps -fT -p <PID> 查看某个进程(PID)的所有线程
-- kill 杀死进程
+- kill <PID>杀死进程
 - top 按大写H切换是否显示进程
 - top -H -p <PID> 查看某个进程(PID)的所有线程
 
